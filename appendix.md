@@ -99,5 +99,3 @@ I used ChatGPT once to generate an initial outline and sample wording for a one-
 Quarto. (n.d.). *Quarto documentation*. https://quarto.org/docs/
 
 OpenAI. (n.d.). *ChatGPT*. https://chat.openai.com/
-
-American Psychological Association. (n.d.). *APA Style*. https://apastyle.apa.org/
