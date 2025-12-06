@@ -3,7 +3,7 @@
 ## Appendix A — LLM-Generated Draft and Outline (Unedited)
 
 **Tool used:** ChatGPT (ChatGPT 5.1 interface)  
-**Date of use:** ____________________  
+**Date of use:** 7 Dec 2025  
 
 ### Prompt
 
