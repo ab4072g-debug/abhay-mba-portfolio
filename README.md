@@ -33,7 +33,6 @@ This site is deployed via **GitHub Pages** from:
 - Branch: `main`
 - Folder: `/docs`
 
-Note: `docs/.nojekyll` is used to prevent Jekyll processing.
 
 ## LLM use and academic integrity
 An LLM (ChatGPT) was used to generate an initial outline and sample draft text. The final portfolio content was reviewed for accuracy and rewritten/edited to reflect the author’s authentic background and voice. Full details are documented in `appendix.md`.
