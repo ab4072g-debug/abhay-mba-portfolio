@@ -91,3 +91,13 @@ Location: [Location]
 
 ### AI Usage Declaration
 I used ChatGPT once to generate an initial outline and sample wording for a one-page MBA portfolio in Quarto. I did not copy the text directly; instead, I used it as a starting structure and then rewrote all content in my own words, adding my real education, experience, skills, and projects. I reviewed the final page for accuracy and clarity to ensure it reflects my voice and meets academic integrity expectations.
+
+---
+
+## References
+
+Quarto. (n.d.). *Quarto documentation*. https://quarto.org/docs/
+
+OpenAI. (n.d.). *ChatGPT*. https://chat.openai.com/
+
+American Psychological Association. (n.d.). *APA Style*. https://apastyle.apa.org/
